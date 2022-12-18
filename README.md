@@ -17,6 +17,9 @@
 # Errors
 ![image](https://user-images.githubusercontent.com/99861616/208326054-5a8811b5-318d-44af-afb5-170698d8d2e8.png)
 ![image](https://user-images.githubusercontent.com/99861616/208325970-1bbf0e2c-0c26-4475-89b2-1c7541bef756.png)
+![image](https://user-images.githubusercontent.com/99861616/208326108-d90f6ec1-9eb9-48e0-b482-597436052078.png)
+![image](https://user-images.githubusercontent.com/99861616/208326149-3e4c00aa-3104-4387-98f3-4d15a6c66c51.png)
+
 
 
 
